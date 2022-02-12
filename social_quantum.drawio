@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-12T17:06:08.282Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="q1YVgSCLM_Xglkm0waAV" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-12T17:06:17.925Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="gKgNsMiTjqpSrD-tp3Xw" version="16.5.6" type="github">
   <diagram id="bJjdfScnOhEYDZ1nvRLR" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,7 +68,7 @@
         </mxCell>
         <object label="" local="10.0.0.0/16" internet_gatway="0.0.0.0/0" id="vMngIz2PfXexnk4Se60b-22">
           <mxCell style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Route_Tables.svg;" vertex="1" parent="bB3c_y69kQhv3heVyW8m-2">
-            <mxGeometry x="150" y="230" width="30.97" height="30" as="geometry" />
+            <mxGeometry x="120" y="210" width="30.97" height="30" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="vMngIz2PfXexnk4Se60b-25" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.956;exitY=0.78;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="bB3c_y69kQhv3heVyW8m-2" source="vMngIz2PfXexnk4Se60b-22" target="vMngIz2PfXexnk4Se60b-13">
@@ -85,7 +85,7 @@
         </mxCell>
         <object label="" local="10.0.0.0/16" NAT_gateway="0.0.0.0/0" id="vMngIz2PfXexnk4Se60b-34">
           <mxCell style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Route_Tables.svg;" vertex="1" parent="bB3c_y69kQhv3heVyW8m-2">
-            <mxGeometry x="119.03" y="430" width="30.97" height="30" as="geometry" />
+            <mxGeometry x="110" y="420" width="30.97" height="30" as="geometry" />
           </mxCell>
         </object>
       </root>
